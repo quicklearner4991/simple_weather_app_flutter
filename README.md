@@ -1,6 +1,7 @@
 # weatherapp
 
-A new Flutter application.
+a simple weather app in flutter
+![alt text](https://github.com/quicklearner4991/simple_weather_app_flutter/blob/master/20200606_003324.gif)
 
 ## Getting Started
 
