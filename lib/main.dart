@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final uri = Constants.BASE_URL +city+
         '&APPID=5fcc1ed82149c74f4644a946551ded05';
    /* final uri = Constants.BASE_URL +city+
-        ',india&APPID=your_api_key';*/ // to search city with country like this
+        ',uk&APPID=your_api_key';*/ // to search city with country like this
     final headers = {'Content-Type': 'application/x-www-form-urlencoded'};
     Response getResponse = await get(uri, headers: headers);
     setState(() {
